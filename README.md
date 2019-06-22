@@ -5,6 +5,7 @@
 + Load jQuery in HTML file
 + Write inline jQuery to modify HTML
 + Explain how jQuery modifies HTML
++ Modify the files so I can submit them
 
 ## Inline jQuery
 
